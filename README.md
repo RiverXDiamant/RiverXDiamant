@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning Full Stack Development
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m learning Full Stack Development
+- 🌱 I’m currently working on JavaScript
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
