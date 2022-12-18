@@ -1,5 +1,6 @@
 ###  :jack_o_lantern: Hi there 👋
 
+<img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" alt="home office pixel art gif"/>
 <!--
 **RiverXDiamant/RiverXDiamant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
